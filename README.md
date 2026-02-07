@@ -21,3 +21,9 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+python python/main.py
+
+## 🎥 Demo Video
+Watch the full demo on YouTube: [Hand Gesture Servo Control](https://youtu.be/l0QxO0AksB4?si=IZkULWzfBj1H_BJq)
+
